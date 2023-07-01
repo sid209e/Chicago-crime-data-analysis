@@ -34,10 +34,12 @@ pip install pandas matplotlib seaborn
 
 Make sure to have the Chicago crime dataset (Crimes_-_2001_to_Present.csv) available in the ../input/chicago-crime-2001-to-2022/ directory.
 
-Usage
+## Usage
+
 You can use the code and analysis in this repository as a reference or starting point for your own research on crimes in Chicago. Feel free to explore, modify, and build upon the existing code to further analyze and visualize the crime data according to your specific requirements.
 
-Contributing
+## Contributing
+
 Contributions to this repository are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Your contributions can help enhance the analysis and make it more valuable for the community.
 
 License
