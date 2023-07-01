@@ -42,7 +42,8 @@ You can use the code and analysis in this repository as a reference or starting 
 
 Contributions to this repository are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Your contributions can help enhance the analysis and make it more valuable for the community.
 
-License
+## License
+
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 
